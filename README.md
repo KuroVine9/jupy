@@ -23,6 +23,16 @@
 + [2장 소스코드](./kadai/kadai_2/)
     + [2장 출력결과](./kadai/kadai_2/result)
 
+> 교재 3장, 4장, 5장 심화문제 홀수번 풀이, ~04/20/2023 00:00
+
++ [3장 소스코드](./kadai/kadai_3/)
+    + [3장 출력결과](./kadai/kadai_3/result)
+
++ [4장 소스코드](./kadai/kadai_4/)
+    + [4장 출력결과](./kadai/kadai_4/result)
+
++ [5장 소스코드](./kadai/kadai_5/)
+    + [5장 출력결과](./kadai/kadai_5/result)
 <hr>
 
 ###### EOF

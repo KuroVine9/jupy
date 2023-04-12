@@ -21,4 +21,6 @@ def foo513():
 
 
 if __name__ == '__main__':
+    foo511()
+    foo512()
     foo513()
