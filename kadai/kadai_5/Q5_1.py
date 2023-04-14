@@ -13,6 +13,7 @@ def foo512():
     i: int = 1
     while i <= 100:
         if i % 2 == 1: print(i, end=" ")
+        i += 1
 
 
 def foo513():
@@ -21,6 +22,4 @@ def foo513():
 
 
 if __name__ == '__main__':
-    foo511()
-    foo512()
     foo513()
