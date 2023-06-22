@@ -33,6 +33,9 @@ if __name__ == '__main__':
     print(pd.concat([p_car, q_car]))
 
     print("\n===4===")
+    print(
+        pd.concat([p_car, q_car]).groupby("com").mean()
+    )
     print(pd.DataFrame(
         {
             "com": ["P", "Q"],

@@ -4,7 +4,7 @@ Q7.5 Answer.
 from typing import *
 
 
-def seat_id_gen(alphabet: Iterable[Text], number: Iterable[Union[int ,str]]) -> list[str]:
+def seat_id_gen(alphabet: Iterable[Text], number: Iterable[Union[int, str]]) -> list[str]:
     return [f"{prefix}{suffix}" for prefix in alphabet for suffix in number]
 
 
